@@ -1,7 +1,7 @@
 # Hi 👋 I'm Claudia! 
 I am a recent graduate in Interactive Technologies and I am currently pursuing a Master's degree in Computer Engineering. My specialization is in web pages and mobile applications, though I am also interested in artificial intelligence.
 
-- 🌐 Follow me on [Linkedin](https://www.linkedin.com/in/claudia-torres-cruz-6ab379267/)) for more information and to get in touch.
+- 🌐 Follow me on [Linkedin](https://www.linkedin.com/in/claudia-torres-cruz-6ab379267/) for more information and to get in touch.
 
 ---
 
